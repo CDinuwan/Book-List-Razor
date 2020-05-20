@@ -1,0 +1,37 @@
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.exe
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.deps.json
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.runtimeconfig.json
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.runtimeconfig.dev.json
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.dll
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.pdb
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.Views.dll
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\bin\Debug\netcoreapp3.1\BookList Razor.Views.pdb
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.RazorAssemblyInfo.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.RazorAssemblyInfo.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.AssemblyInfoInputs.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.AssemblyInfo.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.TagHelpers.input.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.TagHelpers.output.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.RazorCoreGenerate.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.RazorTargetAssemblyInfo.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.RazorTargetAssemblyInfo.cs
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.Views.pdb
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\staticwebassets\BookList Razor.StaticWebAssets.Manifest.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\staticwebassets\BookList Razor.StaticWebAssets.xml
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.dll
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.pdb
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.genruntimeconfig.cache
+C:\Users\hecdi\Desktop\Book List Razor\BookList Razor\BookList Razor\obj\Debug\netcoreapp3.1\BookList Razor.csproj.CopyComplete
